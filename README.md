@@ -1,1 +1,2 @@
-# Parallel-and-Distributed-Computing-Project-XGB-Optimization
+# Parallel-and-Distributed-Computing-Project-XGB-Optimization 
+So the colab notebook basically shows the evolution of our methodologies, in order to reduce the runtime for xgb, you ca just run them and see the reuslts yourself or there is an analysis of the results in the report under the project milestone 4 heading. the dataset used for the ipynb is also attatched here. sample submission csv just has the results which when evaluate on kaggle gave accuracy of about 95% on the test dataset.
